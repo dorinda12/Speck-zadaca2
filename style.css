@@ -76,6 +76,9 @@ h2 {
     justify-content: space-between;
     align-items: center;
 }
+.header.header_secondary {
+    background-color: var(--color-text-primary);
+  }
 
 .header__logo{
     width: 140px;
